@@ -13,7 +13,7 @@ Specifically, CAAD-PAD provides the following labels: gender, Beard, eyeglasses,
 For using face PAD data (images/videos) in each dataset, please download the data from their official webpages.
 
 ## To-do
-[  ] Add FairSWAP and scripts
+- [ ] Add FairSWAP and scripts
 
 ## Citation
 if you use CAAD-PAD dataset, please cite the following paper:
